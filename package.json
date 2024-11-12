@@ -1,0 +1,17 @@
+{
+  "name": "@carlosvpi/parrot",
+  "version": "0.0.0",
+  "description": "The parser node library for your everyday parsing necessities",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": "https://github.com/carlosvpi/parrot.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Vazquez <carlos.vazpi@gmail.com>",
+  "sideEffects": false,
+  "license": "ISC"
+}
